@@ -4,3 +4,5 @@ hi this is my first text
 change 3
 
 change 4 from gitkracken
+
+first change (from branch 1)
