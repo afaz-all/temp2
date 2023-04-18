@@ -7,3 +7,5 @@ change 4 from gitkracken
 
 first change (from branch 1)
 another branch from branch 1
+
+I am master that want to test conflict with one my branches
