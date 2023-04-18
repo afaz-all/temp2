@@ -7,3 +7,6 @@ change 4 from gitkracken
 
 first change (from branch 1)
 another branch from branch 1
+
+
+change for testing conflict (it is from branch)
