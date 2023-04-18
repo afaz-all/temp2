@@ -16,3 +16,4 @@ change 2 from confilicted branch
 change from github to test stash 
 stash from github
 stash 2 from local
+stash 2 from github
