@@ -17,6 +17,7 @@ change from github to test stash
 stash from github
 stash 2 from local
 stash 2 from github
+stash 3form local
 stash 3 from github
 
 stash 3form local
