@@ -13,3 +13,4 @@ I am master that want to test conflict with one my branches
 
 change for testing conflict (it is from branch)
 change 2 from confilicted branch
+change from github to test stash 
